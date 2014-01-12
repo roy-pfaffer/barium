@@ -1,0 +1,11 @@
+{
+  "name": "Barium",
+  "version": "0.0.0",
+  "description": "Real-time logging for service-oriented architecture applications that communicate with AMQP.",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest"
+  },
+  "author": "Roy Pfaffman"
+}
